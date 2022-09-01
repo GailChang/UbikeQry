@@ -1,0 +1,8 @@
+[
+  {
+    "outputFileName": "wwwroot/js/axios.min.js",
+    "inputFiles": [
+      "wwwroot/js/axios.js"
+    ]
+  }
+]
